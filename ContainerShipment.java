@@ -1,7 +1,7 @@
 
 import java.io.*;
 
-public class s19516 {
+public class ContainerShipment {
 
     public static void main(String[] args) {
         int flatRackCount = 214;
